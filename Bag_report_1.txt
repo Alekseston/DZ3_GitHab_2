@@ -1,0 +1,12 @@
+{
+"Title":"",
+"Environment":["Device":"",
+"OS":"",
+"Connection type":"",
+"Browser":"",
+"Reproducibility Rate":""],
+"Steps to Reproduce":["1":""],
+"Expected Result":"",
+"Actual Result":"",
+"Proof":"",
+"Severity/Priority":""
