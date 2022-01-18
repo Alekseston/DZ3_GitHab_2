@@ -51,6 +51,16 @@ Ctrl+C
 - git push 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 - зайти на внешний репозиторий 
+- выбрать респозиторий DZ3_GitHab_2
+- нажать branches
+- напротив ветки CheckLists нажать New pull request
+- выбрать base: main 
+- выбрать compare: CheckLists
+- нажать create pull request
+- нажать merge pull request
+- нажать confirm merge
+- написать комментарий merge CheckLists into main
+- нажать comment
 10. Синхронизировать Внешнюю и Локальную ветки Main
 - git checkout main
 - git pull
